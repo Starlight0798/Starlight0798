@@ -1,7 +1,7 @@
 ### 💻 An Coder
 
 - 🔭 I’m currently a student in Nankai University
-- ✨ I am currently fascinated by deep learning
+- ✨ I am currently fascinated by Deep Learning, especially Reinforcement Learning
 
 ### GitHub stats
 
