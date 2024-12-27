@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently a student in Nankai University
 - ✨ I am currently fascinated by Deep Learning, especially Reinforcement Learning
+- 📕 I have got a postgraduate recommendation from Nankai University to Zhejiang University
 
 ### GitHub stats
 
