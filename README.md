@@ -1,8 +1,7 @@
 ### 💻 An Coder
 
-- 🔭 I’m currently a student in Nankai University
-- ✨ I am currently fascinated by Deep Learning, especially Reinforcement Learning
-- 📕 I have got a postgraduate recommendation from Nankai University to Zhejiang University
+- 🔭 I’m currently a student at Zhejiang University (Daily Lab)
+- ✨ I am currently fascinated by LLM, RL, Agent, etc.
 
 ### GitHub stats
 
